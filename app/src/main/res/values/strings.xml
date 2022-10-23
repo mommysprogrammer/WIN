@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">WindowsTest</string>
+    <string name="say_hello">Поздороваться</string>
+    <string name="test">test</string>
+    <string name="input_name">Введите имя\nи нажмите кнопку</string>
+    <string name="count_crows">Считаем ворон</string>
+    <string name="hello_kitty">Hello kitty</string>
+    <string name="change_background_color">Изменить цвет фона</string>
 </resources>
