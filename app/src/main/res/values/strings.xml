@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">WindowsTest</string>
+    <string name="about">About</string>
+    <string name="about_text">
+    Pet project\n
+        <!--    <b>v some text </b> делаем жирный шрифт -->
+        <b>v 0.1</b></string>
+    <string name="about_title">О программе</string>
+    <string name="send_data">Send Data</string>
+    <string name="input_name">Input name</string>
+    <string name="input_description">Input description</string>
 </resources>
