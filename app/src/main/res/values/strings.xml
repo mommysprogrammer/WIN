@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WindowsTest</string>
+    <string name="who">Кто?</string>
 </resources>
